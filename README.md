@@ -30,7 +30,7 @@ This is an update to the upstream project with the following additions:
 
 1. Install C and C++ compilers + `make` for your OS
 1. Fetch the dependency submodules with `git submodule update --init --recursive --depth=1`
-1. Run `./compile-all.sh`, if it succeeds it will create a binary
+1. Run `./compile-all.sh`
 
 ### Audio
 
